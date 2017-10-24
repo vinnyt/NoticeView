@@ -1,5 +1,5 @@
 ## NoticeView
-
+don't use this
 A TweetBot-like notice component for iOS.
 
 <br/>
